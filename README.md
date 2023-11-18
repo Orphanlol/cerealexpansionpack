@@ -8,7 +8,7 @@ Expansion pack for CerealNetwork by Cerealistic.
 
 
 ## Installation
-idk
+just add it as a resource pack
 
 ## Usage
 dont claim as your own
